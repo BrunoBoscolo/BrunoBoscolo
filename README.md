@@ -4,6 +4,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,c,django,git,mongodb,mysql,postgres,processing,py,qt,threejs)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=aws,django,git,qt,threejs)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=arduino,blender,github,godot,linux,ps,unity)](https://skillicons.dev)
 
 ###
