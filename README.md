@@ -2,7 +2,9 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,aws,blender,c,django,git,github,godot,linux,mongodb,mysql,ps,postgres,processing,py,qt,threejs,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,c,django,git,mongodb,mysql,postgres,processing,py,qt,threejs)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,blender,github,godot,linux,ps,unity)](https://skillicons.dev)
 
 ###
 
