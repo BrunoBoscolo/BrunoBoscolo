@@ -20,7 +20,7 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BrunoBoscolo)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=BrunoBoscolo)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
 
