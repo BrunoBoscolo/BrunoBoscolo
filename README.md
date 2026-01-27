@@ -20,7 +20,7 @@
 
 ###
 
-[[![trophy](https://trophy.ryglcloud.net/?username=BrunoBoscolo)]]
+![trophy](https://trophy.ryglcloud.net/?username=BrunoBoscolo)
 
 ###
 
