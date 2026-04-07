@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">i'm Bruno, engineer and fullstack developer.</h1>
 
 ###
 
