@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![trophy](https://trophy.ryglcloud.net/?username=BrunoBoscolo)
+![trophy](https://gh-trophy.cdnsoft.net/?username=BrunoBoscolo)
 
 ###
 
